@@ -8,3 +8,9 @@ Contents of this readme file are temporary and will be filled with details later
 **License**
 
 GPL
+
+----------
+**Developed with Unreal Engine version**
+
+4.18 Preview 1
+
