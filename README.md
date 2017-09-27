@@ -12,5 +12,5 @@ GPL
 ----------
 **Developed with Unreal Engine version**
 
-4.18 Preview 1
+4.18 Preview 2
 
